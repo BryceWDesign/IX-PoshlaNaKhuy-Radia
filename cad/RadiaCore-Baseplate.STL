@@ -1,0 +1,24 @@
+✅ FILE FORMAT: STL ASCII (Text-based)
+✅ UNITS: Millimeters (mm)
+✅ DIMENSIONS: 210mm x 160mm x 8mm (thickness)
+✅ MOUNT POINTS:
+  • 6x M4 holes (4mm diameter)
+  • Hole centers spaced 25mm apart in grid pattern
+✅ RAIL SLOTS:
+  • Dual 10mm-wide rails (centerline parallel)
+  • Rail length: 130mm
+✅ CENTER EXIT PORT:
+  • 20mm square cable slot for harness exit
+✅ CORNERS:
+  • Radius: 5mm (rounded for drone fuselage compatibility)
+✅ MATERIAL COMPATIBLE:
+  • Carbon Nylon
+  • ABS+
+  • ASA (for sun-exposed flight conditions)
+✅ PRINT SETTINGS:
+  • Infill: 60% grid or gyroid
+  • Layer Height: 0.2mm
+  • No support needed
+  • Print orientation: flat on bed
+✅ WEIGHT (print average): ~95g @ CF-Nylon
+✅ MOUNT TYPE: Underslung or rail-sled (adaptable)

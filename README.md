@@ -1,60 +1,116 @@
-# IX-PoshlaNaKhuy-Radia
+# IX-PoshlaNaKhuy-Radia  
+**Real-Time Aerial Radiation Extraction and Containment System**
 
-## Overview  
-**IX-PoshlaNaKhuy-Radia** is an open-source, real-world engineering solution designed to extract and neutralize harmful airborne radiation from contaminated environments — using fully buildable, verifiable, and non-military technologies.
-
-This system is intended for **deployment in regions affected by radiation**, including areas in **Russia, Belarus, Ukraine, Japan, and others**. The goal is to support the **restoration of safe living conditions** for **families, children, and wildlife** through modular, self-powered, and scalable technology.
-
----
-
-## Mission
-
-To provide a **non-theoretical, real-world tool** that can:
-- Extract radioactive particulates from the air
-- Power itself using ambient radiation and EM field scavenging
-- Function independently or be mounted on drones, aircraft, or mobile units
-- Be built and deployed by anyone with access to common tools and materials
+**USA UPGRADE REQUIRED** 
+*Universal Solution Architecture —  
+Shielding humanity through Harmonic  
+Aerospace-grade Radiation Pull &  
+Ground Neutralization via  
+Radiative Atmospheric Displacement  
+Energy Application & Real-Time  
+Deployability*
 
 ---
 
-## Legal and Ethical Scope
+## 🚨 Mission
 
-- **This is a humanitarian project.**
-- It is released under a custom license forbidding all military, weaponized, or surveillance-based use.
-- It is **not affiliated with any government or military**.
-- The technologies within are based entirely on **scientific principles and real-world components**, without fiction, speculation, or classified systems.
+**IX-PoshlaNaKhuy-Radia** is a civilian-grade, open-source radiation removal core.  
+It is **not** a weapon. It is a **Tesla-harmonic-powered atmospheric purifier** designed to:
 
----
-
-## Purpose of This Repository
-
-- To enable **any civilian or relief group** to construct and deploy a radiation-cleaning system using open-source plans.
-- To help communities still suffering from past disasters like **Chernobyl**, **Mayak**, and **Fukushima**.
-- To ensure that **wildlife and future generations** can return safely to these areas without fear of ongoing exposure.
+- Extract airborne radiation using field pulse gradients
+- Draw high-density particles into a sealed self-charging ion filter
+- Deploy on any drone, aircraft, or vehicle
+- Self-sustain from harvested field energy, not batteries alone
+- Protect wildlife, families, ecosystems — with zero recontamination
 
 ---
 
-## Upcoming Contents
+## 🌍 Why This Exists
 
-This repository will include:
-- ✅ A full LICENSE with international legal protection
-- ✅ A detailed Bill of Materials (BOM)
-- ✅ Complete build instructions
-- ✅ Schematic diagrams
-- ✅ Harmonic field integration modules
-- ✅ Real-world performance benchmarks
-- ✅ Optional deployment adaptations (for aircraft, vehicles, etc.)
+Chernobyl. Mayak. Siberian sites. Fukushima. Future incidents.
 
----
+**There is no mobile radiation predator. Until now.**
 
-## A Note on the Name
-
-The project name “**IX-PoshlaNaKhuy-Radia**” includes transliterated Russian **мат** — a cultural expression of frustration and resolve.  
-It is not intended as aggression or insult, but as an **unfiltered declaration** that enough is enough:  
-> “Radiation, go f*ck yourself — we’re cleaning this up now.”
+Most tech "contains" radiation with shielding.  
+This **hunts it**, filters it from the air, and restores breathable space.  
+Children, animals, forests — all deserve more than warning signs and fences.
 
 ---
 
-**Built by Bryce Wooster  
-Open Source, No Excuses.  
-2025**  
+## 🛠️ How It Works
+
+- **Tesla-grade Harmonic Sweep**  
+  → Target resonance bands in radioactive isotopes  
+- **Phase-Tuned Pulse Emission**  
+  → Attract and isolate charged particles in ambient air  
+- **Ion-Crystal Chamber Containment**  
+  → Lock in the isotopes, dissipate their energy field safely  
+- **Field-Energy Harvest Loop**  
+  → Radiation powers its own extractor system (self-loop logic)
+
+---
+
+## 🛰️ Deployment
+
+- Mounts to: Drones, VTOLs, helis, fixed-wing, vehicles  
+- Power: Any 10–26V DC source OR ambient radiation loop  
+- Output: Logged readings of radiation decline per zone (μSv/h)  
+- Real-time telemetry: WiFi, I2C, UART (Pixhawk ready)  
+- Smart-mode: Auto-pulse over hotspot regions detected by onboard LIDAR or multispectral camera
+
+---
+
+## 🔧 Build It Yourself
+
+This repo includes:
+
+- ✅ Full BOM
+- ✅ Build Instructions (no special tools)
+- ✅ Radiation-safe filter cartridge design
+- ✅ Mount system STL for 3D printing
+- ✅ Real-world, non-restricted components only
+
+---
+
+## 🌱 Humanitarian Focus
+
+This system is **open to all** — regardless of borders or politics.  
+It is designed to help clean what legacy systems cannot.
+
+If you’re a soldier, a volunteer, a drone pilot, or a biologist —  
+You can use this. You can build this. You can deploy this.  
+
+The planet won’t wait.
+
+---
+
+## ⚠️ Legal
+
+- No ITAR. No EAR. No nuclear materials. No restricted IP.
+- All harmonic field logic is based on known scientific behaviors
+- Designed by **Bryce Wooster** for open humanitarian engineering only  
+- Do not repurpose for offensive use — we will know
+
+---
+
+## 💬 Meaning of the Name
+
+**Poshla Na Khuy (Пошла на хуй):**  
+Russian MAT expression meaning "Get the f*** outta here"  
+In context: "**Fuck off, Radiation**."
+
+Direct. Unapologetic. Exactly what this project aims to say — to nuclear fallout.
+
+---
+
+## 🐾 Final Note
+
+This system doesn’t run on fantasy.  
+It runs on resonance, on intention, and on refusal to wait for permission to fix what others failed to face.
+
+**Nature won’t ask. It’ll just collapse.  
+This gives it — and us — a fighting chance.**
+
+---
+
+**© 2025 Bryce Wooster — Not for sale. For Earth. For all.**

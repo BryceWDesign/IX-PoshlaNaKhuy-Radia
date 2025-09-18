@@ -1,0 +1,26 @@
+dose_sensor:
+  type: GM
+  model: SBM20  # or LND712
+  hv: 400       # V, tube bias (per driver spec)
+  cps_to_uSv_h: 0.005  # placeholder; calibrate per tube & geometry
+
+airflow:
+  dp_sensor: "I2C_DP_500Pa"
+  dp_to_Q:
+    method: "cal_curve"   # map ΔP → Q from bench calibration
+    points:
+      - [50, 0.03]   # Pa → m^3/s
+      - [150, 0.06]
+      - [300, 0.11]
+
+env:
+  temp_sensor: "I2C_T"
+  rh_sensor: "I2C_RH"
+
+logging:
+  rate_hz: 1
+  fields: [ts, gps_lat, gps_lon, cps, uSv_h, dp_Pa, Q_m3s, fan_pct, T_C, RH_pct]
+
+control:
+  fan_pwm_limits: [20, 100]
+  esp_enable_on_boot: true
